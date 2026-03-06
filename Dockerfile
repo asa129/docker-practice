@@ -5,4 +5,3 @@ RUN apt-get update && apt-get install -y \
   nginx
 # デフォルトのコマンドを指定する、Layerを作らない
 CMD ["/bin/bash"]
-a
