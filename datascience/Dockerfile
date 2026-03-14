@@ -7,7 +7,7 @@ RUN apt-get update && apt-get install -y \
 
 WORKDIR /opt
 
-RUN wget https://repo.anaconda.com/archive/Anaconda3-2025.12-2-Linux-x86_64.sh\
+RUN wget https://repo.anaconda.com/archive/Anaconda3-2025.12-2-Linux-aarch64.sh
 
 
 
